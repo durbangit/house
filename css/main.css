@@ -412,7 +412,7 @@ html, body {
 }
 @media (max-width: 768px) {
   .collection {
-    background-image: url(./../../img/collection/bg-md.jpg);
+    background-image: url(./../img/collection/bg-md.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -420,7 +420,7 @@ html, body {
 @media (max-width: 576px) {
   .collection {
     padding: 50px 0;
-    background-image: url(./../../img/collection/bg-sm.jpg);
+    background-image: url(./../img/collection/bg-sm.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
